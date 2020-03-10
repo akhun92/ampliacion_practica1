@@ -1,0 +1,15 @@
+li {
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+img {
+    width: auto;
+    height: 120px;
+    border-radius: 50%;
+}
+
+video {
+    width: auto;
+    height: 400px;
+}
